@@ -10,20 +10,20 @@ The intern will use machine learning techniques to build the model and document 
 Instructions:
 
 1.	Obtain a dataset of customer information, including demographic information, customer behavior, and whether or not the customer has churned.
-2.	
-3.	Perform data cleaning and preprocessing on the dataset, including handling missing data and converting categorical variables to numerical variables.
-4.	
-5.	Explore the data and perform feature selection to select the relevant features that will be used in the model.
-6.	
-7.	Build a predictive model using machine learning algorithms such as Logistic Regression, Random Forest, or Gradient Boosting.
-8.	
-9.	Train the model using a portion of the data and use the remaining data to evaluate the performance of the model.
-10.	
-11.	Evaluate the model performance using metrics such as accuracy, precision, recall, F1-score and AUC-ROC.
+
+2.	Perform data cleaning and preprocessing on the dataset, including handling missing data and converting categorical variables to numerical variables.
+
+3.	Explore the data and perform feature selection to select the relevant features that will be used in the model.
+
+4.	Build a predictive model using machine learning algorithms such as Logistic Regression, Random Forest, or Gradient Boosting.
+
+5.	Train the model using a portion of the data and use the remaining data to evaluate the performance of the model.
+
+6.	Evaluate the model performance using metrics such as accuracy, precision, recall, F1-score and AUC-ROC.
 
 
 # Dataset
-4. Relevant Information:
+7. Relevant Information:
 
    The data is related with direct marketing campaigns of a Portuguese banking institution. 
    
@@ -33,12 +33,11 @@ Instructions:
     
 
    The classification goal is to predict if the client will subscribe a term deposit (variable y).
+    1) Number of Instances: 45211 for bank-full.csv (4521 for bank.csv)
 
-5. 1) Number of Instances: 45211 for bank-full.csv (4521 for bank.csv)
-6. 
-7. 2) Number of Attributes: 16 + output attribute.
-
-7. 3)# bank client data:
+   2) Number of Attributes: 16 + output attribute.
+   
+   3)# bank client data:
    1 - age (numeric)
    
    2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student","blue-collar","self-employed","retired","technician","services") 

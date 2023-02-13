@@ -7,23 +7,19 @@ The objective of this assignment is to build a predictive model that can predict
 
 We used machine learning techniques to build the model and document the process, including feature selection, model evaluation, and performance metrics.
 
-Instructions:
+Steps:
 
-1.	Obtain a dataset of customer information, including demographic information, customer behavior, and whether or not the customer has churned.
+1.	Perform data cleaning and preprocessing on the dataset, including handling missing data and converting categorical variables to numerical variables.
 
-2.	Perform data cleaning and preprocessing on the dataset, including handling missing data and converting categorical variables to numerical variables.
+2.	Explore the data and perform feature selection to select the relevant features that will be used in the model.
 
-3.	Explore the data and perform feature selection to select the relevant features that will be used in the model.
+3.	Build a predictive model using machine learning algorithms such as Logistic Regression, Random Forest, or Gradient Boosting.
 
-4.	Build a predictive model using machine learning algorithms such as Logistic Regression, Random Forest, or Gradient Boosting.
+4.	Train the model using a portion of the data and use the remaining data to evaluate the performance of the model.
 
-5.	Train the model using a portion of the data and use the remaining data to evaluate the performance of the model.
+5.	Evaluate the model performance using metrics such as accuracy, precision, recall, F1-score and AUC-ROC.
 
-6.	Evaluate the model performance using metrics such as accuracy, precision, recall, F1-score and AUC-ROC.
-
-
-# Dataset
-7. Relevant Information:
+6. Relevant Information:
 
    The data is related with direct marketing campaigns of a Portuguese banking institution. 
    
@@ -76,6 +72,6 @@ Instructions:
   17 - y - has the client subscribed a term deposit? (binary: "yes","no")
   
 
-8. Missing Attribute Values: None
+7. Missing Attribute Values: None
 
 

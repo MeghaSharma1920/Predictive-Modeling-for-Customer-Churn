@@ -33,14 +33,15 @@ Instructions:
     
 
    The classification goal is to predict if the client will subscribe a term deposit (variable y).
-    1) Number of Instances: 45211 for bank-full.csv (4521 for bank.csv)
+   1) Number of Instances: 45211 for bank-full.csv (4521 for bank.csv)
 
    2) Number of Attributes: 16 + output attribute.
    
-   3)# bank client data:
+   3) bank client data:
+  
    1 - age (numeric)
    
-   2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student","blue-collar","self-employed","retired","technician","services") 
+   2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student","blue-collar","self-employed" , "retired" ,"technician","services") 
    
    3 - marital : marital status (categorical: "married","divorced","single"; note: "divorced" means divorced or widowed)
    

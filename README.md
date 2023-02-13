@@ -1,4 +1,4 @@
-# uniacco-Predictive-Modeling-for-Customer-Churn
+# Predictive-Modeling-for-Customer-Churn
 
 Assignment: Predictive Modeling for Customer Churn.
 
